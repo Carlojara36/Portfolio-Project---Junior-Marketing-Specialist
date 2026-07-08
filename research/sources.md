@@ -55,28 +55,40 @@ This directory contains research on **LinkedIn organic content strategy for B2B 
 - **Why Chosen:** Master of LinkedIn writing craft. Grew from zero to 280K+ readers and $1.3M+ revenue through pure writing skill. Emphasizes storytelling, curiosity-driven writing, and building genuine trust over growth hacks.
 - **Key Frameworks:** Internal scorecard, Curiosity-driven writing, Fans over followers, Magnetic storytelling, Three pillars (reach, relationships, revenue)
 
-## Expert 6: Tim Davidson (B2B Rizz)
-- **Role:** Founder of B2B Rizz, LinkedIn Ads consultancy for B2B SaaS
-- **LinkedIn:** https://linkedin.com/in/tadavidson41
+## Expert 6: Adam Robinson (RB2B / Retention.com)
+- **Role:** CEO of RB2B & Retention.com ($25M+ combined ARR)
+- **LinkedIn:** https://linkedin.com/in/retentionadam
 - **Key Content:**
-  - Exit Five Podcast #127: "Video, Ads, and Slicing Fruit"
-  - Smart Route Podcast: "Not Built to Pitch"
-  - Notorious B2B Podcast (his show)
-- **Why Chosen:** Proves B2B LinkedIn content doesn't have to be boring. Built a consultancy purely through creative content (fruit-cutting videos, cardboard signs at events). Failed 3 times on LinkedIn before breaking through with his "weird is sticky" approach.
-- **Key Frameworks:** Edutainment content, Borrow-B2C-remix-for-B2B, Scrappy over polished, Campaign thinking, Content moat through personality
+  - "LinkedIn Social Selling Masterclass for 2026" (YouTube — Unf*ck My Startup)
+  - "Why Adam Robinson Prices RB2B Below Competitors' CAC" (Safe Doesn't Scale Podcast)
+  - Ahrefs Podcast: LinkedIn playbook breakdown
+  - Monthly P&L posts (publishes revenue publicly on LinkedIn)
+- **Why Chosen:** The most documentable example of a founder brand driving B2B SaaS revenue. Grew RB2B from $0 to $5M ARR in 13 months with 5 people, zero paid ads, and attributes 99% of signups to his LinkedIn content. Published his entire framework publicly.
+- **Key Frameworks:** Build-in-public (monthly P&L), 3 content pillars (build-in-public, GTM opinions, bootstrapping), 90/10 content-to-CTA ratio, Free-tier-as-conversion-engine, Audience-before-product order of operations
 
-## Expert 7: Adam Houlahan (Prominence Global)
-- **Role:** CEO of Prominence Global, LinkedIn strategy agency
-- **LinkedIn:** https://linkedin.com/in/adamhoulahan
+## Expert 7: Chris Walker (Refine Labs / Passetto)
+- **Role:** Founder & CEO of Passetto (formerly Refine Labs)
+- **LinkedIn:** https://linkedin.com/in/chriswalker171
 - **Key Content:**
-  - "Who Viewed My Profile" Podcast (co-host)
-  - Wall Street Times: "Thought Leader Ads" interview
-  - Mirasee Podcast: "LinkedIn's Algorithm"
-  - Author of 4 Amazon best-selling books on LinkedIn
-- **Why Chosen:** 12+ years dedicated to LinkedIn strategy. Created the 5-Pillar Algorithmic Intelligence Framework. Runs a global agency helping B2B leaders. Clients see 200-500% visibility lifts.
-- **Key Frameworks:** 5-Pillar Algorithmic Intelligence (Profile, Content, Audience, Engagement, Conversion), Thought Leader Ad strategy, 360Brew algorithm alignment
+  - The State of Demand Gen (top 25 B2B marketing podcast)
+  - Demand Gen Live (weekly LinkedIn Live show)
+  - Sequel.io CMO Series: "How I grew Refine Labs from $0 to $20M"
+  - Multiple podcast appearances defining B2B demand gen
+- **Why Chosen:** Arguably the person who defined modern B2B LinkedIn demand generation. Created the HIRO Pipeline metric, pioneered the Demand Creation vs Demand Capture distinction, and built Refine Labs to $20M+ ARR primarily through his LinkedIn personal brand and content engine.
+- **Key Frameworks:** Demand Creation vs Demand Capture, HIRO Pipeline, Dark social attribution, Zero-click content, Comment-first growth strategy, Podcast-to-LinkedIn repurposing flywheel
 
-## Expert 8: Melanie Goodman
+## Expert 8: Dave Gerhardt (Exit Five)
+- **Role:** Founder of Exit Five ($3M+ B2B community), former Drift CMO
+- **LinkedIn:** https://linkedin.com/in/davegerhardt
+- **Key Content:**
+  - Exit Five CMO Podcast (300+ episodes, ~1M downloads)
+  - "How to Master LinkedIn for B2B" (podcast episode)
+  - "How Dave Gerhardt Built a B2B Audience of 200,000+" (Siege Media)
+  - The Dave Gerhardt Show
+- **Why Chosen:** Transitioned from Drift CMO to building the #1 B2B marketing community (5,700+ paid members) driven ~60% by LinkedIn. Developed the "omnipresence" strategy — multiple team members posting to create brand awareness. 191K followers, 2M+ monthly LinkedIn impressions across the Exit Five team.
+- **Key Frameworks:** Omnipresence (multi-account team posting), Curate-don't-create content model, LinkedIn-as-PR-channel, Founder-led community flywheel, Personal page > company page emphasis
+
+## Expert 9: Melanie Goodman
 - **Role:** LinkedIn Growth Expert & Consultant
 - **LinkedIn:** Melanie Goodman LinkedIn Consultant
 - **Key Content:**
@@ -97,15 +109,16 @@ This directory contains research on **LinkedIn organic content strategy for B2B 
 - **Why Chosen:** One of only 50 LinkedIn Certified Marketing Experts globally (Top 50). LinkedIn Learning instructor teaching official B2B Marketing courses. Brings balanced organic + paid perspective from managing campaigns for 100+ B2B SaaS clients.
 - **Key Frameworks:** Thought Leader Ads amplification, LinkedIn Ads + organic integration, B2B targeting strategy, Lead gen campaign structure, Creative optimization
 
-## Expert 10: Udit Goenka (Autoposting.ai)
-- **Role:** Founder & CEO of Autoposting.ai
-- **LinkedIn:** https://linkedin.com/in/uditgoenka
+## Expert 10: Dave Gerhardt (Exit Five)
+- **Role:** Founder of Exit Five ($3M+ B2B community), former Drift CMO
+- **LinkedIn:** https://linkedin.com/in/davegerhardt
 - **Key Content:**
-  - "Best LinkedIn Content Strategy for SaaS: The 2026 Growth Guide"
-  - "LinkedIn Video SEO: YouTube vs LinkedIn Strategy"
-  - Autoposting.ai product thought leadership
-- **Why Chosen:** Published the definitive 2026 LinkedIn SaaS playbook. Runs a SaaS company that helps founders post consistently. His dual perspective — both practicing founder-led content AND building a tool that analyzes thousands of SaaS LinkedIn accounts — gives unique insight.
-- **Key Frameworks:** Founder-led content model, Cadence of 3-5x/week per profile, Content format mix (carousels 6.60%, video 5.60%, text 3.85%), Depth-score algorithm optimization
+  - Exit Five CMO Podcast (300+ episodes, ~1M downloads)
+  - "How to Master LinkedIn for B2B" (panel discussion episode)
+  - "Content, Community, and Building a 200,000+ B2B Audience" (Siege Media)
+  - "How Dave Gerhardt Turned LinkedIn Fame into a $1M+ Community" (Community Inc.)
+- **Why Chosen:** The leading example of a B2B community built through LinkedIn. Exit Five grew to 5,700+ paid members with ~60% of signups attributed to LinkedIn. Dave developed the "omnipresence" strategy (multi-account team posting) and built a 191K personal following driving awareness for the community.
+- **Key Frameworks:** Omnipresence (multi-account team posting), Curate-don't-create content model, LinkedIn-as-PR-channel, Founder-led community flywheel, Personal page > company page emphasis
 
 ---
 

@@ -7,34 +7,39 @@
 ---
 
 ## Post 1: Fruit-Cutting Videos as Content
-- **Date:** 2023-2026
-- **Summary:** Tim became known as "the fruit-cutting guy" on LinkedIn. He creates short-form videos of himself cutting fruit while talking about B2B marketing strategy. The unexpected visual hook drives recall and engagement.
-- **Key Takeaway:** A unique visual signature makes you memorable. Borrow attention-grabbing formats from B2C and remix them for B2B.
+- **Date:** ~2021–2023 (breakthrough came in 2021 when he stopped quitting; fruit cutting became signature ~2022)
+- **Source:** LinkedInFamous Substack (Aug 2025); Exit Five Podcast (Mar 2024)
+- **Summary:** Tim became "the fruit-cutting guy." Short-form videos cutting fruit while talking B2B strategy. The unexpected visual hook drives recall.
+- **Key Takeaway:** A unique visual signature makes you memorable. Borrow B2C formats and remix for B2B.
 
 ## Post 2: Cardboard Signs at B2B Events
-- **Date:** 2023-2024
-- **Summary:** Tim brought cardboard signs to B2B events with provocative marketing takes written on them. He photographed himself holding them and posted the photos to LinkedIn. Some events didn't approve, but the campaign built his brand.
-- **Key Takeaway:** Think in campaigns, not one-off posts. A repeatable, slightly uncomfortable stunt builds memory over time.
+- **Date:** ~2022–2024
+- **Source:** LinkedInFamous Substack (Aug 2025); various LinkedIn posts
+- **Summary:** Tim brought cardboard signs with provocative marketing takes to B2B events. The campaign built his brand despite some events disapproving.
+- **Key Takeaway:** Think in campaigns, not one-off posts. Repeatable stunts build memory over time.
 
 ## Post 3: Content Doesn't Need a CTA
-- **Date:** 2024
-- **Summary:** Tim shares his philosophy: "I'm not great at pitching, so I don't." His content educates, entertains, or adds levity — with no sales CTA. The business comes through relationships built by the content.
-- **Key Takeaway:** Not every post needs to convert. Value-first content creates permission for future commercial conversations.
+- **Date:** May 29, 2025 (Smart Route podcast)
+- **Source:** https://www.ctm.com/blog/resources/podcast/tim-davidson/
+- **Summary:** "I'm not great at pitching, so I don't." Content educates, entertains, or adds levity — with no sales CTA. Business comes through relationships built by content.
+- **Key Takeaway:** Not every post needs to convert. Value-first creates permission for future commercial conversations.
 
 ## Post 4: Three LinkedIn Failures Before Success
-- **Date:** 2024-2025
-- **Summary:** Tim admits he failed at LinkedIn three times before it worked. His breakthrough came when he stopped trying to be polished and started being himself — leaning into weirdness, not hiding it.
-- **Key Takeaway:** Failure on LinkedIn is normal. The key is to keep experimenting until you find your format.
+- **Date:** ~2021 (breakthrough); documented in Aug 2025 (LinkedInFamous)
+- **Source:** https://linkedinfamous.substack.com/p/turning-quirks-into-linkedin-content
+- **Summary:** Tim failed at LinkedIn three times before it worked. Breakthrough came when he stopped trying to be polished and started being himself.
+- **Key Takeaway:** Failure on LinkedIn is normal. Keep experimenting until you find your format.
 
 ## Post 5: Just Post — If It Sucks, No One Will See It
-- **Date:** 2024
-- **Summary:** Tim's mantra: "If the content you post sucks, no one's going to see it. So there's literally no harm in posting something just to test it out." This removes the perfectionism barrier that stops most people from starting.
+- **Date:** May 29, 2025 (Smart Route podcast)
+- **Source:** https://www.ctm.com/blog/resources/podcast/tim-davidson/
+- **Summary:** "If the content you post sucks, no one's going to see it. So there's literally no harm in posting something just to test it out."
 - **Key Takeaway:** The cost of a bad post is zero. The cost of never posting is everything.
 
 ## Post 6: Skits as Edutainment
-- **Date:** 2024-2026
-- **Summary:** Tim creates short skits (e.g., side-by-side marketer vs salesperson, restaurant scenarios) that use humor to make B2B marketing concepts more relatable. These skits are his highest-engagement format.
-- **Key Takeaway:** Education + entertainment = edutainment. B2B content doesn't have to be boring to be credible.
+- **Date:** ~2024–2026 (ongoing format)
+- **Summary:** Tim creates short skits using humor to make B2B marketing concepts relatable. His highest-engagement format.
+- **Key Takeaway:** Education + entertainment = edutainment. B2B content doesn't have to be boring.
 
 ---
 

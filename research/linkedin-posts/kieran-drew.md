@@ -20,26 +20,28 @@
 - **Key Takeaway:** Prioritize long-term reputation over short-term reach. The writer with the most trust wins.
 
 ## Post 3: The Internal Scorecard
-- **Date:** 2024
-- **Summary:** Kieran shares the three questions he asks himself daily when he feels like he's not moving fast enough: 1) Did I improve at my craft? 2) Did I learn something new? 3) Did I share an idea to help one person win?
-- **Key Takeaway:** Define success on your own terms. External metrics (followers, likes) are lagging indicators; internal scorecard is leading.
+- **Date:** ~2024 (referenced across multiple posts; documented on Instagram May 8, 2026)
+- **Source:** https://www.instagram.com/p/DXxue1ogpDe/
+- **Summary:** Kieran's three daily questions: 1) Did I improve at my craft? 2) Did I learn something new? 3) Did I share an idea to help one person win?
+- **Key Takeaway:** Define success on your own terms. External metrics (followers, likes) are lagging indicators.
 
 ## Post 4: Surviving the Start
-- **Date:** 2024
-- **Summary:** Kieran reflects on his early journey: "It took me 13 months to get my first 1,000 followers and 18 months to make one dollar. I was writing at 5am every morning before work." His advice: focus on metrics you control.
-- **Key Takeaway:** The start is brutal for everyone. Consistency through the "messy middle" separates winners from quitters.
+- **Date:** ~2024 (recurring theme in his content)
+- **Summary:** "It took me 13 months to get my first 1,000 followers and 18 months to make one dollar. I was writing at 5am every morning before work."
+- **Key Takeaway:** The start is brutal for everyone. Consistency through the "messy middle" separates winners.
 
 ## Post 5: The Sales Page Rewrite
-- **Date:** March 2025
+- **Date:** March 28, 2025
 - **URL:** https://www.linkedin.com/posts/kierandrew123_revamp-your-sales-page-activity-7311356420514320384-o01---
 - **Engagement:** 30+ comments
-- **Summary:** Kieran shares a video of himself rewriting a sales page that grossed over $1.1M. He shows the specific copywriting mistakes he made and how he fixed them.
+- **Summary:** Kieran shares a video of himself rewriting a sales page that grossed over $1.1M, showing specific copywriting mistakes.
 - **Key Takeaway:** Even successful writers iterate. Vulnerability about imperfections builds trust.
 
 ## Post 6: Writing With More Fun
-- **Date:** 2024
-- **Summary:** Kieran realized he hated algorithm-chasing content. He leaned into what he enjoyed (emails, storytelling) and his newsletter revenue grew 3x to $531K/year. "What would my business look like if I was having fun?"
-- **Key Takeaway:** Enjoyment is a strategy. The parts of your business that light you up will outperform the parts you force.
+- **Date:** August 7, 2024 (newsletter)
+- **Source:** https://www.kierandrew.com/more-fun/
+- **Summary:** Kieran realized he hated algorithm-chasing content. He leaned into what he enjoyed (emails, storytelling) and newsletter revenue grew 3x to $531K/year.
+- **Key Takeaway:** Enjoyment is a strategy. The parts of your business that light you up will outperform forced efforts.
 
 ---
 

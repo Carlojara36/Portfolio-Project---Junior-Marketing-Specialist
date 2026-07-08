@@ -6,40 +6,41 @@
 ---
 
 ## Post 1: The LinkedIn Algorithm Has Changed. Most Advice Hasn't.
-- **Date:** March 2026
+- **Date:** March 3, 2026
 - **URL:** https://www.linkedin.com/pulse/linkedin-algorithm-has-changed-most-advice-hasnt-melanie-goodman-nbbhc
-- **Summary:** Melanie breaks down the shift from Relationship Graph to Interest Graph. She explains that LinkedIn's algorithm now focuses on what you know (topic authority) over who you know (network size).
-- **Key Takeaway:** Most LinkedIn advice is outdated. The playbook that worked in 2023-2024 no longer applies in 2026.
+- **Summary:** Melanie breaks down the shift from Relationship Graph to Interest Graph. LinkedIn's algorithm now focuses on topic authority over network size.
+- **Key Takeaway:** Most LinkedIn advice is outdated. The 2023-2024 playbook no longer applies.
 
 ## Post 2: Topic Authority Drives Distribution
-- **Date:** 2026
-- **Summary:** Melanie explains that LinkedIn assigns every creator a topic fingerprint. Topic Authority is LinkedIn's internal measure of how credible and consistent you are on a given subject. It drives distribution more than follower count.
-- **Key Takeaway:** Topic clarity is the new currency. LinkedIn needs to know exactly what you're an expert in.
+- **Date:** May 7, 2026 (Substack)
+- **Source:** https://melaniegoodmanlinkedinconsultant.substack.com/p/linkedin-algorithm-2026-reach-topic-authority
+- **Summary:** LinkedIn assigns every creator a topic fingerprint. Topic Authority is LinkedIn's internal credibility measure. It drives distribution more than follower count.
+- **Key Takeaway:** Topic clarity is the new currency.
 
 ## Post 3: Document Posts Have Highest Reach
-- **Date:** May 2026 (Substack)
-- **Summary:** Melanie's analysis shows document/carousel posts deliver the highest reach of any format. Despite making up less than 5% of all posts, they get disproportionate algorithmic preference because they maximize on-platform dwell time.
-- **Key Takeaway:** Documents and carousels are the highest-leverage format. Few people use them, so competition is low.
+- **Date:** May 7, 2026 (Substack — same article)
+- **Summary:** Document/carousel posts deliver the highest reach of any format. Despite being <5% of all posts, they get algorithmic preference due to dwell time.
+- **Key Takeaway:** Documents and carousels are the highest-leverage format. Low competition.
 
 ## Post 4: The Link Strategy Tradeoff
-- **Date:** May 2026
-- **Summary:** Melanie addresses the conflicting data on links. Van der Blom research says one external link reduces reach by 18.8%. But Saywhat Q1 2026 analysis found link-heavy posts performed better. Her conclusion: a single link dropped into an ordinary post may cost reach, but a post built around high-quality resources performs well.
-- **Key Takeaway:** Links aren't inherently bad — link quality and content context matter.
+- **Date:** May 7, 2026 (Substack — same article)
+- **Summary:** Conflicting data: van der Blom says one link reduces reach 18.8%; Saywhat Q1 2026 found link-heavy posts perform better. Conclusion: link quality and context matter.
+- **Key Takeaway:** Links aren't inherently bad — content context determines impact.
 
 ## Post 5: Optimal Posting Frequency
-- **Date:** May 2026
-- **Summary:** Melanie's research shows 2-4 posts per week is the sweet spot. Daily posting leads to a 26% drop in average reach per post and content fatigue with a -45% reach impact over time.
-- **Key Takeaway:** Less is more. The instinct to post more when reach drops is exactly wrong.
+- **Date:** May 7, 2026 (Substack — same article)
+- **Summary:** 2-4 posts/week is the sweet spot. Daily posting drops average reach per post by 26% and causes -45% reach impact over time from content fatigue.
+- **Key Takeaway:** Less is more. Posting more when reach drops is exactly wrong.
 
 ## Post 6: Hashtags Now Irrelevant
-- **Date:** 2026
-- **Summary:** Melanie reports that posts without hashtags now outperform posts with hashtags by 5-10%. LinkedIn removed the ability to follow hashtags and eliminated hashtag fields from profiles. The algorithm reads full post copy to classify content.
-- **Key Takeaway:** Use 0-3 hashtags max. More than 10 risks a 30-50% visibility penalty.
+- **Date:** May 7, 2026 (Substack — same article)
+- **Summary:** Posts without hashtags outperform those with hashtags by 5-10%. LinkedIn removed hashtag following and profile fields. Algorithm reads post copy.
+- **Key Takeaway:** Use 0-3 hashtags max. More than 10 risks 30-50% visibility penalty.
 
 ## Post 7: AI Prompt for Post Optimization
-- **Date:** May 2026
-- **Summary:** Melanie published a ready-to-use AI prompt that reviews your LinkedIn post against 2026 algorithm best practices, rewrites it, and tells you exactly what to change and why. This is a unique practical resource for applying the theory.
-- **Key Takeaway:** Combine data-backed strategy with AI tooling to scale application.
+- **Date:** May 7, 2026 (Substack — same article)
+- **Summary:** Melanie published an AI prompt that reviews LinkedIn posts against 2026 algorithm best practices, rewrites them, and explains what to change.
+- **Key Takeaway:** Combine data-backed strategy with AI tooling to scale.
 
 ---
 

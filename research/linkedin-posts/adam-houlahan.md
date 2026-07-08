@@ -6,34 +6,37 @@
 ---
 
 ## Post 1: The 360Brew Algorithm Shift
-- **Date:** 2026
-- **Summary:** Adam explains that LinkedIn's 360Brew algorithm is a "reasoning engine that evaluates expertise, semantic alignment, and meaningful conversations." Visibility is earned through clarity, depth, and relevance within a niche — not by being the loudest.
-- **Key Takeaway:** The algorithm now reasons about who you are. Profile optimization and topic clarity are more important than ever.
+- **Date:** ~2025–2026 (framework detailed on his website and LinkedIn profile)
+- **Source:** https://au.linkedin.com/in/adamhoulahan (profile description)
+- **Summary:** LinkedIn's 360Brew algorithm is a "reasoning engine that evaluates expertise, semantic alignment, and meaningful conversations." Visibility earned through clarity, depth, and relevance.
+- **Key Takeaway:** The algorithm reasons about who you are. Profile optimization and topic clarity are critical.
 
 ## Post 2: 5-Pillar Algorithmic Intelligence Framework
-- **Date:** 2025-2026
-- **Summary:** Adam shares his framework for aligning with LinkedIn's AI: Profile, Content, Audience, Engagement, and Conversion. Each pillar must be optimized to build what he calls "algorithmic authority."
-- **Key Takeaway:** LinkedIn strategy is a system, not a single tactic. All five pillars must work together.
+- **Date:** ~2025–2026 (core methodology at Prominence Global)
+- **Source:** https://www.linkedin.com/in/adamhoulahan
+- **Summary:** Adam's framework: Profile, Content, Audience, Engagement, and Conversion. Each pillar must be optimized for "algorithmic authority."
+- **Key Takeaway:** LinkedIn strategy is a system, not a single tactic.
 
 ## Post 3: Thought Leader Ads Are the Future
-- **Date:** 2025 (Wall Street Times interview)
-- **Summary:** Adam explains that Thought Leader Ads are "one of the most exciting developments LinkedIn has introduced." They blend naturally into the feed as genuine posts from real people, leading to higher engagement and more qualified leads than standard sponsored content.
-- **Key Takeaway:** Amplify your best organic content with Thought Leader Ads. Let organic prove the post, then scale with paid.
+- **Date:** June 27, 2025 (Wall Street Times interview)
+- **URL:** https://wallstreettimes.com/interview-with-linkedin-expert-adam-houlahan-how-thought-leader-ads-can-drive-effective-lead-generation/
+- **Summary:** Thought Leader Ads blend naturally into the feed as genuine posts from real people, leading to higher engagement and more qualified leads.
+- **Key Takeaway:** Amplify your best organic content with Thought Leader Ads.
 
 ## Post 4: Profile Optimization for Algorithm Alignment
-- **Date:** 2026
-- **Summary:** Adam emphasizes that your LinkedIn profile is the first signal the 360Brew algorithm uses to classify you. Every element — headline, about section, featured content — should be optimized for your ideal client profile.
-- **Key Takeaway:** Your profile is not a resume. It's a landing page that trains both the algorithm and your prospects.
+- **Date:** ~2025–2026
+- **Summary:** Your LinkedIn profile is the first signal the 360Brew algorithm uses to classify you. Headline, About section, and featured content must align with ICP.
+- **Key Takeaway:** Your profile is not a resume. It's a landing page that trains the algorithm.
 
 ## Post 5: Semantic Signal Optimization
-- **Date:** 2026
-- **Summary:** Adam teaches that the vocabulary you use in posts and comments shapes how LinkedIn classifies your expertise. Using precise, industry-specific language strengthens your topic authority.
+- **Date:** ~2025–2026
+- **Summary:** The vocabulary you use in posts and comments shapes how LinkedIn classifies your expertise. Precise, industry-specific language strengthens topic authority.
 - **Key Takeaway:** Word choice matters. Generic language dilutes your expertise signal.
 
 ## Post 6: Authority Positioning Over Volume
-- **Date:** 2026
-- **Summary:** Adam argues that the era of "post daily no matter what" is over. LinkedIn now penalizes content factory output and rewards high-signal, strategically positioned content from credible voices.
-- **Key Takeaway:** One well-positioned post from a clear authority outperforms ten generic posts from a scattered presence.
+- **Date:** ~2025–2026
+- **Summary:** The era of "post daily no matter what" is over. LinkedIn penalizes content factory output and rewards high-signal, strategically positioned content.
+- **Key Takeaway:** One well-positioned post from a clear authority outperforms ten generic posts.
 
 ---
 

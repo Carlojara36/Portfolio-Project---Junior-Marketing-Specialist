@@ -6,35 +6,40 @@
 ---
 
 ## Post 1: The 2026 LinkedIn SaaS Playbook
-- **Date:** May 2026
+- **Date:** May 18, 2026
 - **URL:** https://autoposting.ai/blog/linkedin-saas-content-strategy
-- **Summary:** Udit publishes the most comprehensive LinkedIn content strategy guide for SaaS companies in 2026. Covers algorithm changes, founder-led growth, content formats, and B2B lead generation.
-- **Key Takeaway:** The 2026 algorithm rewards depth over volume, personal profiles over company pages, and genuine expertise signals over engagement bait.
+- **Summary:** The most comprehensive LinkedIn content strategy guide for SaaS companies in 2026. Covers algorithm changes, founder-led growth, content formats, and B2B lead generation.
+- **Key Takeaway:** The 2026 algorithm rewards depth over volume, personal profiles over company pages, genuine expertise over engagement bait.
 
 ## Post 2: Personal Profiles Beat Company Pages
-- **Date:** 2026
-- **Summary:** Udit reports that company pages reach roughly 1.6% of followers organically. Personal profiles from founders and domain experts reach significantly further. Many SaaS companies have stopped investing in company page organic entirely.
-- **Key Takeaway:** Your personal profile is your primary content asset. Company page is for legitimacy and ad targeting, not reach.
+- **Date:** May 18, 2026 (same playbook)
+- **Source:** https://autoposting.ai/blog/linkedin-saas-content-strategy
+- **Summary:** Company pages reach ~1.6% of followers organically. Personal profiles reach significantly further. Many SaaS companies stopped investing in company page organic.
+- **Key Takeaway:** Your personal profile is your primary content asset.
 
 ## Post 3: Content Format Engagement Benchmarks
-- **Date:** 2026
-- **Summary:** Udit shares data: carousels (documents) average 6.60% engagement rate, native video 5.60%, text posts 3.85%. Carousels generate 2-3x more dwell time than text or image posts.
-- **Key Takeaway:** Different formats serve different purposes. Carousels for reach/dwell, video for sharing, text for frequency/scalability.
+- **Date:** May 18, 2026 (same playbook)
+- **Source:** https://autoposting.ai/blog/linkedin-saas-content-strategy
+- **Summary:** Carousels average 6.60% engagement rate, native video 5.60%, text posts 3.85%. Carousels generate 2-3x more dwell time.
+- **Key Takeaway:** Different formats serve different purposes.
 
 ## Post 4: The 60/25/15 Topic Mix
-- **Date:** 2026
-- **Summary:** Udit recommends a content mix of ~60% problem-focused content (challenges buyers face), ~25% solution/framework content (how to approach challenges), and ~15% company/product content (outcomes customers achieved).
-- **Key Takeaway:** Lead with the problem to build audience. Framework and product content converts them.
+- **Date:** May 18, 2026 (same playbook)
+- **Source:** https://autoposting.ai/blog/linkedin-saas-content-strategy
+- **Summary:** ~60% problem-focused, ~25% solution/framework, ~15% company/product content.
+- **Key Takeaway:** Lead with the problem to build audience. Framework and product content converts.
 
 ## Post 5: 3-5 Posts Per Week Is the Sweet Spot
-- **Date:** 2026
-- **Summary:** For most SaaS companies at the growth stage, 3-5 posts per week per personal profile is the ideal cadence. This builds algorithmic momentum without quality degradation. Consistency matters more than frequency.
+- **Date:** May 18, 2026 (same playbook)
+- **Source:** https://autoposting.ai/blog/linkedin-saas-content-strategy
+- **Summary:** 3-5 posts/week per personal profile is ideal for algorithmic momentum without quality degradation.
 - **Key Takeaway:** A cadence you can maintain for 6 months beats a burst you can't sustain for 3 weeks.
 
 ## Post 6: Founder-Led Content Model
-- **Date:** 2026
-- **Summary:** Udit argues that the SaaS companies generating the most LinkedIn pipeline are not the ones with the best company pages — they're the ones where the founder posts consistently from their personal profile. Buyers evaluate trust before they evaluate product.
-- **Key Takeaway:** Founder-led content is not about personal branding — it's about becoming the most trusted voice in your specific niche.
+- **Date:** May 18, 2026 (same playbook)
+- **Source:** https://autoposting.ai/blog/linkedin-saas-content-strategy
+- **Summary:** SaaS companies generating the most LinkedIn pipeline are those where founders post consistently from personal profiles.
+- **Key Takeaway:** Founder-led content is about becoming the most trusted voice in your niche.
 
 ---
 
